@@ -1,0 +1,7 @@
+
+student-management-system.zip
+node_modules/
+dist/
+.terraform/
+*.log
+
