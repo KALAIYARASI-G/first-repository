@@ -1,0 +1,5 @@
+com\eduportal\sms\repository\StudentRepository.class
+com\eduportal\sms\controller\StudentController.class
+com\eduportal\sms\entity\Student.class
+com\eduportal\sms\service\StudentService.class
+com\eduportal\sms\SmsApplication.class
